@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/">
   <img align="center" alt="Vishakan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Vishakan-Subramanian">
+<a href="https://github.com/svishakan">
   <img align="center" alt="Vishakan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vishakan_s/">
@@ -41,11 +41,11 @@ Open to project collaborations. <br>
 
 ## GitHub Stats :thought_balloon:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishakan-Subramanian&count_private=true&show_icons=true&theme=calm" alt="Vishakan's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=svishakan&count_private=true&show_icons=true&theme=calm" alt="Vishakan's GitHub Stats" />
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakan-Subramanian&layout=compact" alt = "Vishakan's Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svishakan&layout=compact" alt = "Vishakan's Languages" />  
 
 ##  Connect With Me :globe_with_meridians:
 [![Gmail Badge](https://img.shields.io/badge/-svishakan123@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:svishakan123@gmail.com)](mailto:svishakan123@gmail.com)
@@ -59,7 +59,7 @@ Open to project collaborations. <br>
 <br>
 
 ## Visitor Count :bell:
- <img src="https://profile-counter.glitch.me/Vishakan-Subramanian/count.svg" />
+ <img src="https://profile-counter.glitch.me/svishakan/count.svg" />
 
 
 
