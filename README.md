@@ -50,7 +50,7 @@ Interested in Application Development, Data Science and Machine Learning.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)](https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)
 
-[![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)](ttps://www.instagram.com/vishakan_s/)
+[![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)](https://www.instagram.com/vishakan_s/)
 <br>
 
 ## Visitor Count :bell:
