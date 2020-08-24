@@ -43,13 +43,14 @@ Interested in Application Development, Data Science and Machine Learning.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakan-Subramanian&layout=compact" alt = "Vishakan's Languages" />  
 
 ##  Connect With Me :globe_with_meridians:
-![Gmail Badge](https://img.shields.io/badge/-svishakan123@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:svishakan123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-svishakan123@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:svishakan123@gmail.com)](https://img.shields.io/badge/-svishakan123@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:svishakan123@gmail.com)
 
-![Medium Badge](https://img.shields.io/badge/-@svishakan123-66cdaa?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@svishakan123)
+[![Medium Badge](https://img.shields.io/badge/-@svishakan123-66cdaa?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@svishakan123)
+](https://img.shields.io/badge/-@svishakan123-66cdaa?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@svishakan123)
 
-![LinkedIn Badge](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)
+[![LinkedIn Badge](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)
 
-![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)
+[![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)
 <br>
 
 ## Visitor Count :bell:
