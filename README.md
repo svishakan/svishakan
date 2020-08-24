@@ -1,28 +1,32 @@
 
 
- # Vishakan Subramanian :bust_in_silhouette:
- 
+ # Hi 👋 I'm Vishakan Subramanian :bust_in_silhouette:
+
+<p align = "center">
 <a href="https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/">
-  <img align="left" alt="Vishakan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img align="center" alt="Vishakan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/Vishakan-Subramanian">
-  <img align="left" alt="Vishakan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+  <img align="center" alt="Vishakan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vishakan_s/">
-  <img align="left" alt="Vishakan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <img align="center" alt="Vishakan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/VishakanSubramanian123/">
-  <img align="left" alt="Vishakan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+  <img align="center" alt="Vishakan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://medium.com/@svishakan123">
-  <img align="left" alt="Vishakan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="center" alt="Vishakan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+</p>
 
 <br>
 
 ## About Me :man:
-Undergraduate Computer Science and Engineering student at SSN College of Engineering.
-Interested in Application Development, Data Science and Machine Learning.
+
+Undergraduate Computer Science and Engineering student at SSN College of Engineering. <br>
+Interested in Application Development, Data Science, Machine Learning and AI. <br>
+Open to project collaborations. <br>
 
 
 ## Languages and Tools :eyes:
@@ -32,6 +36,7 @@ Interested in Application Development, Data Science and Machine Learning.
 - SQL
 - Bash Shell
 - Git
+- HTML/CSS/JS (Basic)
 
 
 ## GitHub Stats :thought_balloon:
