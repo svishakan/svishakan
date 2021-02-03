@@ -53,7 +53,7 @@ Open to project collaborations. <br>
 [![Medium Badge](https://img.shields.io/badge/-@svishakan123-66cdaa?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@svishakan123)
 ](https://medium.com/@svishakan123)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)](https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)
+[![LinkedIn Badge](https://img.shields.io/badge/-vishakan_subramanian-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakan-subramanian-24b8631b2/)](https://www.linkedin.com/in/vishakan-subramanian/)
 
 [![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)](https://www.instagram.com/vishakan_s/)
 <br>
