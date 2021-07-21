@@ -36,7 +36,8 @@ Open to project collaborations. <br>
 - SQL
 - Bash Shell
 - Git
-- HTML/CSS/JS (Basic)
+- HTML/CSS/JS
+- React
 
 
 ## GitHub Stats :thought_balloon:
