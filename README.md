@@ -24,8 +24,8 @@
 
 ## About Me :man:
 
-Undergraduate Computer Science and Engineering student at SSN College of Engineering. <br>
-Interested in Application Development, Data Science, Machine Learning and AI. <br>
+Computer Science Undergraduate from SSN College of Engineering 📚
+Integrating enterprise applications @ Workato 🧑‍🏭
 Open to project collaborations. <br>
 
 
