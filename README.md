@@ -24,8 +24,8 @@
 
 ## About Me :man:
 
-Computer Science Undergraduate from SSN College of Engineering 📚
-Integrating enterprise applications @ Workato 🧑‍🏭
+Computer Science Undergraduate from SSN College of Engineering 📚 <br>
+Integrating enterprise applications @ Workato 🧑‍🏭 <br>
 Open to project collaborations. <br>
 
 
