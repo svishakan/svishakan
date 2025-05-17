@@ -31,14 +31,11 @@ Open to project collaborations. <br>
 
 
 ## Languages and Tools :eyes:
-- C
-- Python
-- Java
+- Ruby, Ruby on Rails, RSpec
+- Go
 - SQL
-- Bash Shell
 - Git
-- HTML/CSS/JS
-- React
+- Bash
 
 
 ## GitHub Stats :thought_balloon:
